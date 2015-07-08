@@ -1,5 +1,5 @@
 {
-	"name": "is",
+	"name": "aimee-is",
 	"description": "Aimee的is模块，用于类型检查",
 	"main": "is.js",
 	"version": "1.0.0",
@@ -16,7 +16,7 @@
 		"uz"
 	],
 	"author": "gavinning",
-	"license": "GPL",
+	"license": "GPL-3.0",
 	"bugs": {
 		"url": "https://github.com/gavinning/aimee-is/issues"
 	},
