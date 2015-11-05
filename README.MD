@@ -1,7 +1,14 @@
-# Aimee-page
+# is
 
 Aimee的is模块，用于类型检查
 
+#### Install
+```
+aimee i is
+```
+
+
+#### Example
 ```
 var is = require('is')
 

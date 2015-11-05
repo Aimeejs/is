@@ -1,7 +1,7 @@
 /**
- * Aimee-is
+ * is for Aimeejs
  * Author by gavinning
- * Homepage https://github.com/gavinning/aimee-is
+ * Homepage https://github.com/Aimeejs/is
  */
 
 var is = {};
