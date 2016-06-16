@@ -51,4 +51,12 @@ is.function = function(obj){
     return typeof obj === 'function';
 }
 
+is.emptyObject = function(obj){
+    var i, arr = [];
+    for(var i in obj){
+        i && arr.push(i)
+    }
+    return arr.length ? false : true;
+}
+
 module.exports = is;
